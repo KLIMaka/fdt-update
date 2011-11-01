@@ -3,5 +3,5 @@
    <feature url="features/fdt_1.0.0.201111012235.jar" id="fdt" version="1.0.0.201111012235" os="win32" ws="win32">
       <category name="fdt_cat"/>
    </feature>
-   <category-def name="fdt_cat" label="FDt"/>
+   <category-def name="fdt_cat" label="FDT"/>
 </site>
